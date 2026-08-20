@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_cnj_serventias_extrajud_lista.",
+  "servers": {
+    "cnj_serventias_extrajud_lista": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_cnj_serventias_extrajud_lista"
+    }
+  }
+}
